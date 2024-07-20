@@ -1,6 +1,6 @@
 # Collect-diagnostic-information-for-remote-Windows-System
 Collect diagnostic information for remote Windows System
-<BR>
+
 # Define the folder path on the local machine
 $folderPath = "C:\temp\information"
 # Create the folder if it doesn't exist
